@@ -10,6 +10,6 @@ export class BottleNumberOne extends BottleNumber {
   }
 
   pronoun(): string {
-    return 'it'
+    return 'it
   }
 }
